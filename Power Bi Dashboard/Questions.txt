@@ -1,0 +1,12 @@
+- Which purpose has received the highest total credit amount?
+- Are there any purposes with lower funding?
+- Which job category takes the highest credit amount?
+- Are some job types rarely borrowing?
+- What is the most common housing type?
+- What percentage of customers live rent-free?
+- How many customers have no savings account?
+- Which saving account type is most common?
+- Which purpose occupies the largest share of total credit?
+- How does the treemap compare to the bar chart?
+- Do males and females differ in loan purpose?
+- Which loan purpose is most popular by gender?
